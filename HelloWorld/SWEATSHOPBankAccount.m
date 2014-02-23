@@ -12,6 +12,7 @@
 
 -(void) setAccount:(long)y andBalance:(double)x
 {
+    accountBalance_ = y;
     accountBalance_ = x;
     accountNumber_ = y;
 }
