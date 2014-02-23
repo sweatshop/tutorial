@@ -14,6 +14,8 @@
 
 @implementation SWEATSHOPViewController
 
+// what does this do?
+// such a rubbish code
 - (void)viewDidLoad
 {
     [super viewDidLoad];
@@ -24,6 +26,13 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+// this function does nothing
+// code by djpark
+- (void) doNothing
+{
+    
 }
 
 @end
